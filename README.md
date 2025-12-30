@@ -27,6 +27,21 @@ Play different drum sounds using **mouse clicks** or **keyboard keys** and enjoy
 - **GitHub Pages** – Hosting  
 
 ---
+## 📁 Project Structure
+Drum-Set/
+│
+├── index.html # Main HTML file
+├── styles.css # CSS styles and animations
+├── index.js # JavaScript logic
+├── sounds/ # Drum sound files
+│ ├── crash.mp3
+│ ├── kick-bass.mp3
+│ ├── snare.mp3
+│ ├── tom-1.mp3
+│ ├── tom-2.mp3
+│ ├── tom-3.mp3
+│ └── tom-4.mp3
+└── README.md # Project documentation
 
 ---
 
@@ -82,6 +97,4 @@ This project is open-source and free to use for learning and personal projects.
 **Abhijay Singh Panwar**  
 GitHub: https://github.com/AbhijaySinghPanwar
 
-
-## 📁 Project Structure
 
